@@ -1,1 +1,3 @@
+<?php
 // Deauthenticate a user
+?>
