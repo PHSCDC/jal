@@ -1,1 +1,1 @@
-
+// Deauthenticate a user
