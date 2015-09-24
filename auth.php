@@ -1,1 +1,3 @@
+<?php
 // Authenticate a user
+?>
