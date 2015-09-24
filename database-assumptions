@@ -1,0 +1,2 @@
+Username field must be named "username"
+Password hash field must be named "password"
