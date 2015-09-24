@@ -1,1 +1,1 @@
-
+// Authenticate a user
