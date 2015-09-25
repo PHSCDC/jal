@@ -1,3 +1,3 @@
 <?php
-// Authenticate a user
+// Authenticate a user using PDO
 ?>
